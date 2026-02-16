@@ -48,17 +48,6 @@
 <p align="center">
   ✦ 𓆩♡𓆪 ✦ 𓆩♡𓆪 ✦ 𓆩♡𓆪 ✦
 </p>
-
-  ✧･ﾟ: *✧･ﾟ: * 💖 💫 💖 *:･ﾟ✧*:･ﾟ✧
-</p>
-
-<!-- Projects / Work -->
-<h2 align="center" style="font-family: Poppins, sans-serif;">🛠 Projects / Work</h2>
-
-<p align="center" style="font-family: Poppins, sans-serif;">
-<a href=https://github.com/766ms/Glam-rent-v11" target="_blank">Glam Rent🌸 </a> | 
-</p>
-
 <p align="center">
   ✧･ﾟ: *✧･ﾟ: * 💖 💫 💖 *:･ﾟ✧*:･ﾟ✧
 </p>
