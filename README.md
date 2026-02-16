@@ -17,17 +17,17 @@
   ✧･ﾟ: *✧･ﾟ: * 💖 💫 💖 *:･ﾟ✧*:･ﾟ✧
 </p>
 
-<h2 align="center" style="font-family: Poppins, sans-serif;">🌸 My Interests 🌸</h2>
+<h2 align="center" style="font-family: Poppins, sans-serif;">🌸 Gustos: 🌸</h2>
 
 <p align="center" style="font-family: Poppins, sans-serif;">
-📚 Reading | 🎌 Watching anime | 🎮 Cozy games | 💄 Makeup | 🧴 Skincare
+📚 leer | 🎌 anime | 🎮 cozy games | 💄 makeup | 🧴 skincare
 </p>
 
 <p align="center">
   ✧･ﾟ: *✧･ﾟ: * 💖 💫 💖 *:･ﾟ✧*:･ﾟ✧
 </p>
 
-<h2 align="center" style="font-family: Poppins, sans-serif;">💻 Languages 💻</h2>
+<h2 align="center" style="font-family: Poppins, sans-serif;">💻 Lenguajes: 💻</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
