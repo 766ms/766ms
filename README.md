@@ -18,7 +18,7 @@
 </p>
 
 <!-- Calendario rosita de contribuciones -->
-<h2 align="center">📅 My Coding Calendar</h2>
+<h2 align="center">📅 Contribuciones:</h2>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/ff69b4/766ms" />
