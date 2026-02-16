@@ -18,7 +18,7 @@
 </p>
 
 <!-- Calendario rosita de contribuciones -->
-<h2 align="center">📅 My Coding Calendar</h2>
+<h2 align="center">📅 Coding Calendar:</h2>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/ff69b4/766ms" />
@@ -28,10 +28,10 @@
   ✧･ﾟ: *✧･ﾟ: * 💖 💫 💖 *:･ﾟ✧*:･ﾟ✧
 </p>
 
-<h2 align="center" style="font-family: Poppins, sans-serif;">🌸 My Interests 🌸</h2>
+<h2 align="center" style="font-family: Poppins, sans-serif;">🌸 My Interests: 🌸</h2>
 
 <p align="center" style="font-family: Poppins, sans-serif;">
-📚 Reading | 🎌 Watching anime | 🎮 Cozy games | 💄 Makeup | 🧴 Skincare
+📚 reading | 🎌 anime | 🎮 cozy games | 💄 makeup | 🧴 skincare
 </p>
 
 <p align="center">
@@ -49,14 +49,6 @@
   ✦ 𓆩♡𓆪 ✦ 𓆩♡𓆪 ✦ 𓆩♡𓆪 ✦
 </p>
 
-<!-- Top Languages -->
-<h2 align="center" style="font-family: Poppins, sans-serif;">📊 Top Languages</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=766ms&layout=compact&theme=rose_pine" />
-</p>
-
-<p align="center">
   ✧･ﾟ: *✧･ﾟ: * 💖 💫 💖 *:･ﾟ✧*:･ﾟ✧
 </p>
 
