@@ -7,9 +7,9 @@
 <!-- Imágenes lado a lado con bordes -->
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 50px;">
 
-  <img src="mymelody-_1_.gif" width="400" style="border: 5px solid #ffb6c1; border-radius: 15px;"/>
+  <img src="mymelody-_1_.gif" width="400" style="border: 5px solid #ffb6c1; border-radius: 15px; box-shadow: 0px 0px 15px #ffb6c1;"/>
 
-  <img src="yamadayakane.jpg" width="400" style="border: 5px solid #ffb6c1; border-radius: 15px;"/>
+  <img src="yamadayakane.jpg" width="400" style="border: 5px solid #ffb6c1; border-radius: 15px; box-shadow: 0px 0px 15px #ffb6c1;"/>
   
 </div>
 
@@ -18,7 +18,7 @@
 </p>
 
 <!-- Calendario rosita de contribuciones -->
-<h2 align="center">📅 Contribuciones:</h2>
+<h2 align="center">📅 My Coding Calendar</h2>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/ff69b4/766ms" />
@@ -28,17 +28,17 @@
   ✧･ﾟ: *✧･ﾟ: * 💖 💫 💖 *:･ﾟ✧*:･ﾟ✧
 </p>
 
-<h2 align="center" style="font-family: Poppins, sans-serif;">🌸 Gustos: 🌸</h2>
+<h2 align="center" style="font-family: Poppins, sans-serif;">🌸 My Interests 🌸</h2>
 
 <p align="center" style="font-family: Poppins, sans-serif;">
-📚 leer | 🎌 anime | 🎮 cozy games | 💄 makeup | 🧴 skincare
+📚 Reading | 🎌 Watching anime | 🎮 Cozy games | 💄 Makeup | 🧴 Skincare
 </p>
 
 <p align="center">
   ✧･ﾟ: *✧･ﾟ: * 💖 💫 💖 *:･ﾟ✧*:･ﾟ✧
 </p>
 
-<h2 align="center" style="font-family: Poppins, sans-serif;">💻 Lenguajes: 💻</h2>
+<h2 align="center" style="font-family: Poppins, sans-serif;">💻 Languages 💻</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -49,6 +49,25 @@
   ✦ 𓆩♡𓆪 ✦ 𓆩♡𓆪 ✦ 𓆩♡𓆪 ✦
 </p>
 
+<!-- Top Languages -->
+<h2 align="center" style="font-family: Poppins, sans-serif;">📊 Top Languages</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=766ms&layout=compact&theme=rose_pine" />
+</p>
+
 <p align="center">
   ✧･ﾟ: *✧･ﾟ: * 💖 💫 💖 *:･ﾟ✧*:･ﾟ✧
 </p>
+
+<!-- Projects / Work -->
+<h2 align="center" style="font-family: Poppins, sans-serif;">🛠 Projects / Work</h2>
+
+<p align="center" style="font-family: Poppins, sans-serif;">
+<a href=https://github.com/766ms/Glam-rent-v11" target="_blank">Glam Rent🌸 </a> | 
+</p>
+
+<p align="center">
+  ✧･ﾟ: *✧･ﾟ: * 💖 💫 💖 *:･ﾟ✧*:･ﾟ✧
+</p>
+
