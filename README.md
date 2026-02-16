@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">💗 coding is a life 💗</h1>
 
-<!--
-**766ms/766ms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="mymelody-_1_.gif" width="250"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="yamadayakane.jpg" width="300"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/pink-mode-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/aesthetic-ffc0cb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/soft-vibes-ffb6c1?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  ✦ 𓆩♡𓆪 ✦ 𓆩♡𓆪 ✦ 𓆩♡𓆪 ✦
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=766ms&show_icons=true&theme=rose_pine"/>
+</p>
