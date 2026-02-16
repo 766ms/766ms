@@ -4,33 +4,30 @@
   ✧･ﾟ: *✧･ﾟ: * 💖 💫 💖 *:･ﾟ✧*:･ﾟ✧
 </p>
 
-<p align="center">
-  <img src="mymelody-_1_.gif" width="400"/>
-</p>
+<!-- Imágenes lado a lado con bordes -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 50px;">
+
+  <img src="mymelody-_1_.gif" width="400" style="border: 5px solid #ffb6c1; border-radius: 15px;"/>
+
+  <img src="yamadayakane.jpg" width="400" style="border: 5px solid #ffb6c1; border-radius: 15px;"/>
+  
+</div>
 
 <p align="center">
   ✧･ﾟ: *✧･ﾟ: * 💖 💫 💖 *:･ﾟ✧*:･ﾟ✧
 </p>
 
-<p align="center">
-  <img src="yamadayakane.jpg" width="300"/>
-</p>
-
-<p align="center">
-  ✧･ﾟ: *✧･ﾟ: * 💖 💫 💖 *:･ﾟ✧*:･ﾟ✧
-</p>
-
-<h2 align="center" style="font-family: Poppins, sans-serif;">🌸 Gustos: 🌸</h2>
+<h2 align="center" style="font-family: Poppins, sans-serif;">🌸 My Interests 🌸</h2>
 
 <p align="center" style="font-family: Poppins, sans-serif;">
-📚 Leer | 🎌 Ver anime | 🎮 Juegos cozy | 💄 Maquillaje | 🧴 Skincare
+📚 Reading | 🎌 Watching anime | 🎮 Cozy games | 💄 Makeup | 🧴 Skincare
 </p>
 
 <p align="center">
   ✧･ﾟ: *✧･ﾟ: * 💖 💫 💖 *:･ﾟ✧*:･ﾟ✧
 </p>
 
-<h2 align="center" style="font-family: Poppins, sans-serif;">💻 Lenguajes 💻</h2>
+<h2 align="center" style="font-family: Poppins, sans-serif;">💻 Languages 💻</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -41,9 +38,6 @@
   ✦ 𓆩♡𓆪 ✦ 𓆩♡𓆪 ✦ 𓆩♡𓆪 ✦
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=766ms&show_icons=true&theme=rose_pine"/>
-</p>
 
 <p align="center">
   ✧･ﾟ: *✧･ﾟ: * 💖 💫 💖 *:･ﾟ✧*:･ﾟ✧
