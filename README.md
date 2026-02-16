@@ -17,6 +17,17 @@
   ✧･ﾟ: *✧･ﾟ: * 💖 💫 💖 *:･ﾟ✧*:･ﾟ✧
 </p>
 
+<!-- Calendario rosita de contribuciones -->
+<h2 align="center">📅 My Coding Calendar</h2>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/ff69b4/766ms" />
+</p>
+
+<p align="center">
+  ✧･ﾟ: *✧･ﾟ: * 💖 💫 💖 *:･ﾟ✧*:･ﾟ✧
+</p>
+
 <h2 align="center" style="font-family: Poppins, sans-serif;">🌸 Gustos: 🌸</h2>
 
 <p align="center" style="font-family: Poppins, sans-serif;">
@@ -37,7 +48,6 @@
 <p align="center">
   ✦ 𓆩♡𓆪 ✦ 𓆩♡𓆪 ✦ 𓆩♡𓆪 ✦
 </p>
-
 
 <p align="center">
   ✧･ﾟ: *✧･ﾟ: * 💖 💫 💖 *:･ﾟ✧*:･ﾟ✧
