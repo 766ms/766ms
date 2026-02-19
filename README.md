@@ -1,4 +1,4 @@
-<h1 align="center">💗 coding is a life 💗</h1>
+<h1 align="center">💗 Hi, i'm Sara 💗</h1>
 
 <p align="center">
   ✧･ﾟ: *✧･ﾟ: * 💖 💫 💖 *:･ﾟ✧*:･ﾟ✧
@@ -26,12 +26,6 @@
 
 <p align="center">
   ✧･ﾟ: *✧･ﾟ: * 💖 💫 💖 *:･ﾟ✧*:･ﾟ✧
-</p>
-
-<h2 align="center" style="font-family: Poppins, sans-serif;">🌸 Gustos: 🌸</h2>
-
-<p align="center" style="font-family: Poppins, sans-serif;">
-📚 reading | 🎌 anime | 🎮 cozy games | 💄 makeup | 🧴 skincare
 </p>
 
 <p align="center">
